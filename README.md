@@ -1,6 +1,6 @@
 # qm
 
-A multiplayer agent harness for work. In Slack and on the web.
+A multiplayer agent harness for work. In Slack and on the web. It's built with open source in mind. Pick your own harness and model and switch between them — Pi, OpenCode, Codex, and Claude Code all drive the same core, so a deployment isn't tied to any single vendor.
 
 ![The QM web UI: two concurrent sessions, a sidebar of personal files, crons, keychain, deploys, memory, and skills](./docs/screenshots/web-ui-hero.png)
 
