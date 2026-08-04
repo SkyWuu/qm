@@ -1,5 +1,10 @@
 # Organization layers
 
+<!-- hy-mt2-i18n:start -->
+**English** | [日本語](./README_ja.md) | [Español](./README_es.md) | [中文](./README_zh-CN.md) | [한국어](./README_ko.md)
+<!-- hy-mt2-i18n:end -->
+
+
 This directory is where an organization's own deployment material lives when qm is
 customized from a private fork: a standalone private repository whose history begins as
 a clone of qm, in which core stays identical to upstream and everything
