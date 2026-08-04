@@ -1,5 +1,10 @@
 # `qm`
 
+<!-- hy-mt2-i18n:start -->
+**English** | [日本語](./README_ja.md) | [Español](./README_es.md) | [中文](./README_zh-CN.md) | [한국어](./README_ko.md)
+<!-- hy-mt2-i18n:end -->
+
+
 The standalone deployment CLI for QM. The normative directory schema,
 security guarantees, target behavior, and lifecycle are in
 [`docs/deploy-directory.md`](../docs/deploy-directory.md). `qm init` materializes
